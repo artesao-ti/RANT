@@ -1,6 +1,6 @@
-# Título do projeto
+# **RANT**
 
-Um parágrafo da descrição do projeto vai aqui
+Aluguel de veiculos
 
 ## 🚀 Começando
 
@@ -10,61 +10,44 @@ Consulte **Implantação** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+nodejs v10.16.3
+react native v16.8.6
+mysql v10.2.24
 
 ### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
+    download and install nodejs
+    download and install react native
+    download and install mysql
+    download and install expo
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
+Na pasta raiz do projeto execute o comando:
+
+     expo start
+e então escolha o comando:
+
+    › Press a │ open Android
+    › Press w │ open web
+    
+    › Press r │ reload app
+    › Press m │ toggle menu
+    › Press d │ show developer tools
+    › shift+d │ toggle auto opening developer tools on startup (enabled)
 
 ### 🔩 Analise os testes de ponta a ponta
 
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
+Em desenvolvimento
 
 ### ⌨️ E testes de estilo de codificação
 
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Desenvolvimento
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Nodejs](https://nodejs.org/en/docs/) - O framework web usado
+* [Expo](https://docs.expo.dev/) - Gerente de Dependência
+* [NPM](https://docs.npmjs.com/) - Usada para gerar RSS
 
 ## 🖇️ Colaborando
 
@@ -72,14 +55,15 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 
 ## 📌 Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Nós usamos [git](https://git-scm.com/doc) para controle de versão. Para as versões disponíveis, observe as [releases](https://github.com/artesao-ti/RANT/releases).
 
+usamos também a extensão [Git Live](https://docs.git.live/)
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Time** - *Trabalho Braçal* - [Guaxinins](https://github.com/orgs/artesao-ti/teams/guaxinim)
+* **Professor Caio** - *Avaliação/apoio* - [Prof. Caio Malheiros](https://github.com/caiomduarte)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
