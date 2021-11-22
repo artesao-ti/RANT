@@ -43,7 +43,6 @@ Em desenvolvimento
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Nodejs](https://nodejs.org/en/docs/) - O framework web usado
 * [Expo](https://docs.expo.dev/) - Gerente de Dependência
@@ -60,16 +59,11 @@ Nós usamos [git](https://git-scm.com/doc) para controle de versão. Para as ver
 usamos também a extensão [Git Live](https://docs.git.live/)
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Time** - *Trabalho Braçal* - [Guaxinins](https://github.com/orgs/artesao-ti/teams/guaxinim)
 * **Professor Caio** - *Avaliação/apoio* - [Prof. Caio Malheiros](https://github.com/caiomduarte)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
